@@ -1,0 +1,7 @@
+c:\Users\katemolina\source\repos\HW2\Recursion\bin\Debug\Recursion.exe.config
+c:\Users\katemolina\source\repos\HW2\Recursion\bin\Debug\Recursion.exe
+c:\Users\katemolina\source\repos\HW2\Recursion\bin\Debug\Recursion.pdb
+c:\Users\katemolina\source\repos\HW2\Recursion\obj\Debug\Recursion.csprojAssemblyReference.cache
+c:\Users\katemolina\source\repos\HW2\Recursion\obj\Debug\Recursion.csproj.CoreCompileInputs.cache
+c:\Users\katemolina\source\repos\HW2\Recursion\obj\Debug\Recursion.exe
+c:\Users\katemolina\source\repos\HW2\Recursion\obj\Debug\Recursion.pdb

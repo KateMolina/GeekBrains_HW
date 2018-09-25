@@ -1,0 +1,7 @@
+C:\Users\KateMolina\source\repos\HW2\SumOfPositiveOdd\bin\Debug\SumOfPositiveOdd.exe.config
+C:\Users\KateMolina\source\repos\HW2\SumOfPositiveOdd\bin\Debug\SumOfPositiveOdd.exe
+C:\Users\KateMolina\source\repos\HW2\SumOfPositiveOdd\bin\Debug\SumOfPositiveOdd.pdb
+C:\Users\KateMolina\source\repos\HW2\SumOfPositiveOdd\obj\Debug\SumOfPositiveOdd.csprojAssemblyReference.cache
+C:\Users\KateMolina\source\repos\HW2\SumOfPositiveOdd\obj\Debug\SumOfPositiveOdd.csproj.CoreCompileInputs.cache
+C:\Users\KateMolina\source\repos\HW2\SumOfPositiveOdd\obj\Debug\SumOfPositiveOdd.exe
+C:\Users\KateMolina\source\repos\HW2\SumOfPositiveOdd\obj\Debug\SumOfPositiveOdd.pdb

@@ -1,0 +1,7 @@
+C:\Users\KateMolina\source\repos\HW2\SumCalc\bin\Debug\SumCalc.exe.config
+C:\Users\KateMolina\source\repos\HW2\SumCalc\bin\Debug\SumCalc.exe
+C:\Users\KateMolina\source\repos\HW2\SumCalc\bin\Debug\SumCalc.pdb
+C:\Users\KateMolina\source\repos\HW2\SumCalc\obj\Debug\SumCalc.csproj.CoreCompileInputs.cache
+C:\Users\KateMolina\source\repos\HW2\SumCalc\obj\Debug\SumCalc.exe
+C:\Users\KateMolina\source\repos\HW2\SumCalc\obj\Debug\SumCalc.pdb
+C:\Users\KateMolina\source\repos\HW2\SumCalc\obj\Debug\SumCalc.csprojAssemblyReference.cache

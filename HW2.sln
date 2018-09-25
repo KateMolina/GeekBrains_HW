@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FineNums", "HW2\FineNums.csproj", "{1C00B8B5-A476-44E3-95E2-68FEA2223D3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BMI_2", "ConsoleApp1\BMI_2.csproj", "{9DB5124E-744B-4541-BDD3-A668743891BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recursion", "Recursion\Recursion.csproj", "{5C43C70E-8DFA-4989-92F4-8C6A7B6D886A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginPassword_Validation", "LoginPassword_Validation\LoginPassword_Validation.csproj", "{B0851964-43C2-405E-9D44-1900E780B798}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfPositiveOdd", "SumOfPositiveOdd\SumOfPositiveOdd.csproj", "{0F731278-8D3F-4863-B7DF-D074736FC69C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReturnMin", "ReturnMin\ReturnMin.csproj", "{4EAEC2E9-DD7D-4D3A-9723-2F7EC0FB57B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumCalc", "SumCalc\SumCalc.csproj", "{0B4CE48F-C3C3-4FFF-842D-D64C3F10AEF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C00B8B5-A476-44E3-95E2-68FEA2223D3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C00B8B5-A476-44E3-95E2-68FEA2223D3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C00B8B5-A476-44E3-95E2-68FEA2223D3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C00B8B5-A476-44E3-95E2-68FEA2223D3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DB5124E-744B-4541-BDD3-A668743891BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DB5124E-744B-4541-BDD3-A668743891BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DB5124E-744B-4541-BDD3-A668743891BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DB5124E-744B-4541-BDD3-A668743891BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C43C70E-8DFA-4989-92F4-8C6A7B6D886A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C43C70E-8DFA-4989-92F4-8C6A7B6D886A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C43C70E-8DFA-4989-92F4-8C6A7B6D886A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C43C70E-8DFA-4989-92F4-8C6A7B6D886A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0851964-43C2-405E-9D44-1900E780B798}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0851964-43C2-405E-9D44-1900E780B798}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0851964-43C2-405E-9D44-1900E780B798}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0851964-43C2-405E-9D44-1900E780B798}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F731278-8D3F-4863-B7DF-D074736FC69C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F731278-8D3F-4863-B7DF-D074736FC69C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F731278-8D3F-4863-B7DF-D074736FC69C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F731278-8D3F-4863-B7DF-D074736FC69C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EAEC2E9-DD7D-4D3A-9723-2F7EC0FB57B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EAEC2E9-DD7D-4D3A-9723-2F7EC0FB57B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EAEC2E9-DD7D-4D3A-9723-2F7EC0FB57B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EAEC2E9-DD7D-4D3A-9723-2F7EC0FB57B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B4CE48F-C3C3-4FFF-842D-D64C3F10AEF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B4CE48F-C3C3-4FFF-842D-D64C3F10AEF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B4CE48F-C3C3-4FFF-842D-D64C3F10AEF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B4CE48F-C3C3-4FFF-842D-D64C3F10AEF4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA30DF07-4B53-46EE-8039-4BD9E89C66E6}
+	EndGlobalSection
+EndGlobal

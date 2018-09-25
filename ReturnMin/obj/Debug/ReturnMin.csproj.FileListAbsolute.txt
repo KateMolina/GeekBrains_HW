@@ -1,0 +1,7 @@
+C:\Users\KateMolina\source\repos\HW2\ReturnMin\bin\Debug\ReturnMin.exe.config
+C:\Users\KateMolina\source\repos\HW2\ReturnMin\bin\Debug\ReturnMin.exe
+C:\Users\KateMolina\source\repos\HW2\ReturnMin\bin\Debug\ReturnMin.pdb
+C:\Users\KateMolina\source\repos\HW2\ReturnMin\obj\Debug\ReturnMin.csproj.CoreCompileInputs.cache
+C:\Users\KateMolina\source\repos\HW2\ReturnMin\obj\Debug\ReturnMin.exe
+C:\Users\KateMolina\source\repos\HW2\ReturnMin\obj\Debug\ReturnMin.pdb
+C:\Users\KateMolina\source\repos\HW2\ReturnMin\obj\Debug\ReturnMin.csprojAssemblyReference.cache

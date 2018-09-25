@@ -1,0 +1,7 @@
+c:\users\katemolina\source\repos\HW2\HW2\bin\Debug\HW2.exe.config
+c:\users\katemolina\source\repos\HW2\HW2\bin\Debug\HW2.exe
+c:\users\katemolina\source\repos\HW2\HW2\bin\Debug\HW2.pdb
+c:\users\katemolina\source\repos\HW2\HW2\obj\Debug\HW2.csprojAssemblyReference.cache
+c:\users\katemolina\source\repos\HW2\HW2\obj\Debug\HW2.csproj.CoreCompileInputs.cache
+c:\users\katemolina\source\repos\HW2\HW2\obj\Debug\HW2.exe
+c:\users\katemolina\source\repos\HW2\HW2\obj\Debug\HW2.pdb
